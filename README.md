@@ -1,11 +1,4 @@
-Here's a template to help you structure and add style to your GitHub profile README. You can customize each section to highlight your strengths and interests!
-
----
-
-### **GitHub Profile README Template**
-
-```markdown
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm SriVira!
 
 ## 🚀 About Me
 I’m a Senior Software Engineer with expertise in mobile and web application development, specializing in Flutter, Laravel, and backend technologies. With over 5 years of experience, I’m passionate about creating scalable applications that solve real-world problems.
